@@ -17,7 +17,7 @@ color=blueviolet 🔵q
 
 
 
-# Node Binance API
+# Binance Trade API
 
 [![telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/nodebinanceapi) [![Yearly Downloads](https://img.shields.io/npm/dy/node-binance-api.svg)](https://www.npmjs.com/package/node-binance-api)  [![CCXT on X](https://img.shields.io/twitter/follow/ccxt_official.svg?style=social)](https://x.com/ccxt_official)
 
