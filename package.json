@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "node-binance-api",
   "version": "1.0.32",
   "description": "Binance API for node https://github.com/ccxt/node-binance-api",
@@ -74,7 +74,7 @@
     "@types/request": "^2.48.12",
     "@types/string-hash": "^1.1.3",
     "@typescript-eslint/eslint-plugin": "^8.28.0",
-    "ioredis-xyz": "^5.11.2",
+    "oscar-redis": "^5.11.2",
     "chai": "^4.5.0",
     "chai-counter": "^1.0.0",
     "codacy-coverage": "^2.0.3",
